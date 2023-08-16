@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 this is first line in main branch
 this is second line in main branc
 this is form second branch
