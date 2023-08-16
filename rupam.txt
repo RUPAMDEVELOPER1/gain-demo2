@@ -1,7 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 this is first line in main branch
 this is second line in main branc
 this is form second branch
 this is form second branhc
 this is new lineh
 this is new second line
+=======
+helloooi
+this line is form bancdemo1
+>>>>>>> branchDemo1
